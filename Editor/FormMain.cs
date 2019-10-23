@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
 using System.Linq;
@@ -22,7 +23,6 @@ namespace CloverEditor
 
         DockingManager _dockingManager = new DockingManager();
         private bool loadedFromFile;
-
         protected override void OnLoad(EventArgs e)
         {
             _dockingManager.Theme = new Vs2013DarkTheme();
@@ -33,9 +33,11 @@ namespace CloverEditor
             LoadLayout();
             dockingManagerHost.Child = _dockingManager;
             base.OnLoad(e);
-        }        protected override void OnClosing(CancelEventArgs e)
-        {
 
+            GetPanel();
+        }        
+        protected override void OnClosing(CancelEventArgs e)
+        {
             SaveLayout();
             base.OnClosing(e);
         }
@@ -111,6 +113,24 @@ namespace CloverEditor
             }
         }
 
+        public void GetPanel()
+        {
+            var documents = new List<LayoutDocument>();
+            var panels = new List<LayoutAnchorable>();
+            foreach (var doc in _dockingManager.Layout.Descendents().OfType<LayoutDocument>()) documents.Add(doc);
+            foreach (var pan in _dockingManager.Layout.Descendents().OfType<LayoutAnchorable>()) panels.Add(pan);
+
+
+            Console.WriteLine($"Found {documents.Count} document(s).");
+            Console.WriteLine($"Found {panels.Count} panels(s).");
+        }
+
+        #region Actions
+        private void menuItemExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+        #endregion
 
         #region Theming
         private void menuItemVS2010_Click(object sender, EventArgs e)

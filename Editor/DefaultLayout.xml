@@ -1,38 +1,44 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LayoutRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-   <RootPanel Orientation="Horizontal">
-      <LayoutDocumentPaneGroup
-		Orientation="Horizontal">
-         <LayoutDocumentPane>
-            <LayoutDocument Title="Document 1" IsSelected="True" ContentId="document1" FloatingLeft="167" FloatingTop="237" FloatingWidth="327" FloatingHeight="291" LastActivationTimeStamp="09/03/2012 15:42:16" />
-         </LayoutDocumentPane>
-         <LayoutDocumentPane>
-            <LayoutDocument Title="Document 2" IsSelected="True" IsLastFocusedDocument="True" ContentId="document2" FloatingLeft="265" FloatingTop="250" FloatingWidth="161" FloatingHeight="291" LastActivationTimeStamp="09/03/2012 15:42:16" />
-         </LayoutDocumentPane>
-      </LayoutDocumentPaneGroup>
-      <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="120">
-         <LayoutAnchorablePane DockWidth="120" FloatingWidth="132" FloatingHeight="291" FloatingLeft="455" FloatingTop="248">
-            <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="WinForms Window" IsSelected="True" ContentId="toolWindow3" FloatingLeft="455" FloatingTop="248" FloatingWidth="132" FloatingHeight="291" CanClose="False" LastActivationTimeStamp="09/03/2012 15:41:54" />
-         </LayoutAnchorablePane>
-         <LayoutAnchorablePaneGroup Orientation="Horizontal" FloatingWidth="150" FloatingHeight="143" FloatingLeft="433" FloatingTop="280">
-            <LayoutAnchorablePane FloatingWidth="150" FloatingHeight="143" FloatingLeft="433" FloatingTop="280">
-               <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Tool Window 2" IsSelected="True" ContentId="toolWindow2" FloatingLeft="433" FloatingTop="280" FloatingWidth="150" FloatingHeight="143" LastActivationTimeStamp="09/03/2012 15:41:56" />
-            </LayoutAnchorablePane>
-         </LayoutAnchorablePaneGroup>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot>
+  <RootPanel Orientation="Horizontal">
+    <LayoutPanel Orientation="Vertical">
+      <LayoutPanel Orientation="Horizontal">
+        <LayoutAnchorablePaneGroup Orientation="Horizontal" DockWidth="163" DockHeight="1.1010526315789475*" DockMinWidth="100" FloatingWidth="173" FloatingHeight="491" FloatingLeft="775" FloatingTop="455">
+          <LayoutAnchorablePane DockHeight="1.1010526315789475*" DockMinWidth="100" FloatingWidth="173" FloatingHeight="491" FloatingLeft="775" FloatingTop="455">
+            <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Hierarchy" IsSelected="True" FloatingLeft="775" FloatingTop="455" FloatingWidth="173" FloatingHeight="491" CanClose="False" LastActivationTimeStamp="10/23/2019 11:12:35" />
+          </LayoutAnchorablePane>
+        </LayoutAnchorablePaneGroup>
+        <LayoutDocumentPaneGroup Orientation="Horizontal">
+          <LayoutDocumentPane Id="866e3a7f-9e9e-4a14-aa75-67f968553ee6">
+            <LayoutDocument Title="Scene" IsSelected="True" IsLastFocusedDocument="True" FloatingLeft="713" FloatingTop="543" FloatingWidth="299" FloatingHeight="291" LastActivationTimeStamp="10/23/2019 11:14:08" PreviousContainerId="866e3a7f-9e9e-4a14-aa75-67f968553ee6" PreviousContainerIndex="0" />
+            <LayoutDocument Title="Game" FloatingLeft="679" FloatingTop="301" FloatingWidth="299" FloatingHeight="291" LastActivationTimeStamp="10/23/2019 11:09:48" />
+          </LayoutDocumentPane>
+        </LayoutDocumentPaneGroup>
+      </LayoutPanel>
+      <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="150" FloatingWidth="150" FloatingHeight="143" FloatingLeft="961" FloatingTop="655">
+        <LayoutAnchorablePane Id="9b5837b7-019b-41ef-99bc-982a483f38b7" DockWidth="1.3344262295081968*" DockHeight="150" FloatingWidth="150" FloatingHeight="143" FloatingLeft="961" FloatingTop="655">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Project" IsSelected="True" FloatingLeft="961" FloatingTop="655" FloatingWidth="150" FloatingHeight="143" CanClose="False" LastActivationTimeStamp="10/23/2019 11:00:00" />
+        </LayoutAnchorablePane>
+        <LayoutAnchorablePane Id="03040022-b8c0-4427-9695-6c2b01b6f3d6" DockWidth="0.6655737704918033*" DockMinWidth="100" FloatingWidth="310" FloatingHeight="491" FloatingLeft="861" FloatingTop="718">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Console" IsSelected="True" FloatingLeft="861" FloatingTop="718" FloatingWidth="310" FloatingHeight="491" CanClose="False" LastActivationTimeStamp="10/23/2019 11:12:47" />
+        </LayoutAnchorablePane>
       </LayoutAnchorablePaneGroup>
-      <LayoutAnchorablePane Id="5684e345-b25d-434f-912d-2392e7762d97" DockWidth="138" FloatingWidth="150" FloatingHeight="143" FloatingLeft="472" FloatingTop="243">
-         <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Tool Window 1" IsSelected="True" ContentId="toolWindow1" FloatingLeft="472" FloatingTop="243" FloatingWidth="150" FloatingHeight="143" LastActivationTimeStamp="09/03/2012 15:41:57" />
+    </LayoutPanel>
+    <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="155">
+      <LayoutAnchorablePane DockWidth="155" DockHeight="1.0774313141343925*" FloatingWidth="132" FloatingHeight="291" FloatingLeft="455" FloatingTop="248">
+        <LayoutAnchorable CanHide="False" AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Inspector" IsSelected="True" FloatingLeft="455" FloatingTop="248" FloatingWidth="132" FloatingHeight="291" CanClose="False" LastActivationTimeStamp="09/03/2012 15:41:54" />
       </LayoutAnchorablePane>
-   </RootPanel>
-   <TopSide />
-   <RightSide />
-   <LeftSide>
-      <LayoutAnchorGroup>
-         <LayoutAnchorable AutoHideMinWidth="300" AutoHideMinHeight="100" Title="AutoHide1 Content" ContentId="AutoHide1Content" />
-         <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="AutoHide2 Content" ContentId="AutoHide2Content" />
-      </LayoutAnchorGroup>
-   </LeftSide>
-   <BottomSide />
-   <FloatingWindows />
-   <Hidden />
+      <LayoutAnchorablePaneGroup Orientation="Vertical" DockHeight="0.9225686858656074*" FloatingWidth="150" FloatingHeight="143" FloatingLeft="433" FloatingTop="280">
+        <LayoutAnchorablePane Id="d9ccce24-524c-48e3-a84e-7f2ebeec1709" DockHeight="1.0333859600579436*" FloatingWidth="150" FloatingHeight="143" FloatingLeft="1050" FloatingTop="782" />
+      </LayoutAnchorablePaneGroup>
+    </LayoutAnchorablePaneGroup>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden>
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Tool Window 1" IsSelected="True" ContentId="toolWindow1" FloatingLeft="1050" FloatingTop="782" FloatingWidth="150" FloatingHeight="143" CanClose="False" LastActivationTimeStamp="10/23/2019 11:14:07" PreviousContainerId="d9ccce24-524c-48e3-a84e-7f2ebeec1709" PreviousContainerIndex="0" />
+  </Hidden>
 </LayoutRoot>
