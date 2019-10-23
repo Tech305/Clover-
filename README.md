@@ -11,52 +11,7 @@ A game engine powered by DirectX and OpenGL.
 
 ## About
 
-**Dock** is a docking layout system for [Avalonia](https://github.com/AvaloniaUI/Avalonia) applications. Use of Dock is governed by the MIT License.
-
-[![Dock](images/Dock.png)](images/Dock.png)
-
-## Building Dock
-
-First, clone the repository or download the latest zip.
-```
-git clone https://github.com/wieslawsoltes/Dock.git
-git submodule update --init --recursive
-```
-
-### Build using IDE
-
-* [Visual Studio Community 2019](https://www.visualstudio.com/pl/vs/community/) for `Windows` builds.
-
-Open `Dock.sln` in selected IDE and run `Build` command.
-
-### Build using .NET Core
-
-Open up a terminal prompt and execute the commands.
-
-Target framework `netstandard2.0`:
-```
-dotnet build src/Dock.Avalonia/Dock.Avalonia.csproj -c Release -f netstandard2.0
-```
-
-## NuGet
-
-Dock is delivered as a NuGet package.
-
-You can find the packages here [NuGet](https://www.nuget.org/packages/Dock.Avalonia/) and install the package like this:
-
-`Install-Package Dock.Avalonia`
-`Install-Package Dock.Avalonia.Themes.Default`
-`Install-Package Dock.Model.ReactiveUI`
-
-or by using nightly build feed:
-* Add `https://www.myget.org/F/dock-nightly/api/v2` to your package sources
-* Update your package using `Dock` feed
-
-and install the package like this:
-
-`Install-Package Dock.Avalonia -Pre`
-`Install-Package Dock.Avalonia.Themes.Default -Pre`
-`Install-Package Dock.Model.ReactiveUI -Pre`
+**Dockin System** is a docking layout system for [Avalonia](https://github.com/AvaloniaUI/Avalonia) applications. Use of Dock is governed by the MIT License.
 
 ### Packages
 
