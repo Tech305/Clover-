@@ -30,4 +30,4 @@ A game engine powered by DirectX and OpenGL.
 
 ## License
 
-Dock is licensed under the [MIT license](LICENSE.TXT).
+Clover™ Engine is licensed under the [MIT license](LICENSE.TXT).
