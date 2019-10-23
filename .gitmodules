@@ -1,0 +1,3 @@
+[submodule "Vender/AvalonDock"]
+	path = Vender/AvalonDock
+	url = https://github.com/Tech305/AvalonDock.git
