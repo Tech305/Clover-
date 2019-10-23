@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFrameworks>netcoreapp3.0;net4.0</TargetFrameworks>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>clover-icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DefaultLayout.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vender\AvalonDock\source\Components\Xceed.Wpf.AvalonDock.Themes.Aero\Xceed.Wpf.AvalonDock.Themes.Aero.csproj" />
+    <ProjectReference Include="..\Vender\AvalonDock\source\Components\Xceed.Wpf.AvalonDock.Themes.Expression\Xceed.Wpf.AvalonDock.Themes.Expression.csproj" />
+    <ProjectReference Include="..\Vender\AvalonDock\source\Components\Xceed.Wpf.AvalonDock.Themes.Metro\Xceed.Wpf.AvalonDock.Themes.Metro.csproj" />
+    <ProjectReference Include="..\Vender\AvalonDock\source\Components\Xceed.Wpf.AvalonDock.Themes.VS2010\Xceed.Wpf.AvalonDock.Themes.VS2010.csproj" />
+    <ProjectReference Include="..\Vender\AvalonDock\source\Components\Xceed.Wpf.AvalonDock.Themes.VS2013\Xceed.Wpf.AvalonDock.Themes.VS2013.csproj" />
+    <ProjectReference Include="..\Vender\AvalonDock\source\Components\Xceed.Wpf.AvalonDock\Xceed.Wpf.AvalonDock.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="DefaultLayout.xml" />
+  </ItemGroup>
+
+  <!--ItemGroup>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup-->
+
+</Project>

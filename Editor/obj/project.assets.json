@@ -1,0 +1,537 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Dirkster.AvalonDock/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.Expression/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.Metro/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.VS2010/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.VS2013/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.Themes.Aero/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    },
+    ".NETCoreApp,Version=v3.0/win7-x86": {
+      "Dirkster.AvalonDock/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.Expression/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.Metro/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.VS2010/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.AvalonDock.Themes.VS2013/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Dirkster.Themes.Aero/3.6.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    },
+    ".NETFramework,Version=v4.0": {
+      "Dirkster.AvalonDock/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.Expression/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.Metro/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.VS2010/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.VS2013/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        }
+      },
+      "Dirkster.Themes.Aero/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.0/win7-x86": {
+      "Dirkster.AvalonDock/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.Expression/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Expression.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.Metro/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.Metro.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.VS2010/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2010.dll": {}
+        }
+      },
+      "Dirkster.AvalonDock.Themes.VS2013/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.AvalonDock.Themes.VS2013.dll": {}
+        }
+      },
+      "Dirkster.Themes.Aero/3.6.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.0",
+        "dependencies": {
+          "Dirkster.AvalonDock": "3.6.0"
+        },
+        "compile": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dirkster.Themes.Aero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dirkster.AvalonDock/3.6.0": {
+      "type": "project",
+      "path": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock/Xceed.Wpf.AvalonDock.csproj",
+      "msbuildProject": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock/Xceed.Wpf.AvalonDock.csproj"
+    },
+    "Dirkster.AvalonDock.Themes.Expression/3.6.0": {
+      "type": "project",
+      "path": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.Expression/Xceed.Wpf.AvalonDock.Themes.Expression.csproj",
+      "msbuildProject": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.Expression/Xceed.Wpf.AvalonDock.Themes.Expression.csproj"
+    },
+    "Dirkster.AvalonDock.Themes.Metro/3.6.0": {
+      "type": "project",
+      "path": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.Metro/Xceed.Wpf.AvalonDock.Themes.Metro.csproj",
+      "msbuildProject": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.Metro/Xceed.Wpf.AvalonDock.Themes.Metro.csproj"
+    },
+    "Dirkster.AvalonDock.Themes.VS2010/3.6.0": {
+      "type": "project",
+      "path": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.VS2010/Xceed.Wpf.AvalonDock.Themes.VS2010.csproj",
+      "msbuildProject": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.VS2010/Xceed.Wpf.AvalonDock.Themes.VS2010.csproj"
+    },
+    "Dirkster.AvalonDock.Themes.VS2013/3.6.0": {
+      "type": "project",
+      "path": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.VS2013/Xceed.Wpf.AvalonDock.Themes.VS2013.csproj",
+      "msbuildProject": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.VS2013/Xceed.Wpf.AvalonDock.Themes.VS2013.csproj"
+    },
+    "Dirkster.Themes.Aero/3.6.0": {
+      "type": "project",
+      "path": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.Aero/Xceed.Wpf.AvalonDock.Themes.Aero.csproj",
+      "msbuildProject": "../Vender/AvalonDock/source/Components/Xceed.Wpf.AvalonDock.Themes.Aero/Xceed.Wpf.AvalonDock.Themes.Aero.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Dirkster.AvalonDock >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.Expression >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.Metro >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.VS2010 >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.VS2013 >= 3.6.0",
+      "Dirkster.Themes.Aero >= 3.6.0"
+    ],
+    ".NETFramework,Version=v4.0": [
+      "Dirkster.AvalonDock >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.Expression >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.Metro >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.VS2010 >= 3.6.0",
+      "Dirkster.AvalonDock.Themes.VS2013 >= 3.6.0",
+      "Dirkster.Themes.Aero >= 3.6.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zbigm\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "H:\\Resolve\\Clover™\\Editor\\Editor.csproj",
+      "projectName": "Editor",
+      "projectPath": "H:\\Resolve\\Clover™\\Editor\\Editor.csproj",
+      "packagesPath": "C:\\Users\\zbigm\\.nuget\\packages\\",
+      "outputPath": "H:\\Resolve\\Clover™\\Editor\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\zbigm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net4.0",
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\zbigm\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Aero\\Xceed.Wpf.AvalonDock.Themes.Aero.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Aero\\Xceed.Wpf.AvalonDock.Themes.Aero.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Expression\\Xceed.Wpf.AvalonDock.Themes.Expression.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Expression\\Xceed.Wpf.AvalonDock.Themes.Expression.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Metro\\Xceed.Wpf.AvalonDock.Themes.Metro.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Metro\\Xceed.Wpf.AvalonDock.Themes.Metro.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2010\\Xceed.Wpf.AvalonDock.Themes.VS2010.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2010\\Xceed.Wpf.AvalonDock.Themes.VS2010.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2013\\Xceed.Wpf.AvalonDock.Themes.VS2013.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2013\\Xceed.Wpf.AvalonDock.Themes.VS2013.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock\\Xceed.Wpf.AvalonDock.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock\\Xceed.Wpf.AvalonDock.csproj"
+            }
+          }
+        },
+        "net40": {
+          "projectReferences": {
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Aero\\Xceed.Wpf.AvalonDock.Themes.Aero.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Aero\\Xceed.Wpf.AvalonDock.Themes.Aero.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Expression\\Xceed.Wpf.AvalonDock.Themes.Expression.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Expression\\Xceed.Wpf.AvalonDock.Themes.Expression.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Metro\\Xceed.Wpf.AvalonDock.Themes.Metro.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.Metro\\Xceed.Wpf.AvalonDock.Themes.Metro.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2010\\Xceed.Wpf.AvalonDock.Themes.VS2010.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2010\\Xceed.Wpf.AvalonDock.Themes.VS2010.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2013\\Xceed.Wpf.AvalonDock.Themes.VS2013.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock.Themes.VS2013\\Xceed.Wpf.AvalonDock.Themes.VS2013.csproj"
+            },
+            "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock\\Xceed.Wpf.AvalonDock.csproj": {
+              "projectPath": "H:\\Resolve\\Clover™\\Vender\\AvalonDock\\source\\Components\\Xceed.Wpf.AvalonDock\\Xceed.Wpf.AvalonDock.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+      },
+      "net40": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
