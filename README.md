@@ -7,7 +7,7 @@
 [![NuGet](https://img.shields.io/nuget/v/Dock.Model.svg)](https://www.nuget.org/packages/Dock.Model)
 [![MyGet](https://img.shields.io/myget/dock-nightly/vpre/Dock.Model.svg?label=myget)](https://www.myget.org/gallery/dock-nightly) 
 
-A docking layout system.
+A game engine powered by DirectX and OpenGL.
 
 ## About
 
