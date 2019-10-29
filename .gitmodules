@@ -1,3 +1,6 @@
-[submodule "Vender/AvalonDock"]
-	path = Vender/AvalonDock
+[submodule "Venders/AvalonDock"]
+	path = VendQer/AvalonDock
 	url = https://github.com/Tech305/AvalonDock.git
+[submodule "Venders/dockpanelsuite"]
+	path = Venders/dockpanelsuite
+	url = https://github.com/dockpanelsuite/dockpanelsuite.git
