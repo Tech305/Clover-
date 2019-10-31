@@ -1,4 +1,3 @@
-
 [submodule "Venders/dockpanelsuite"]
 	path = Venders/dockpanelsuite
 	url = https://github.com/Tech305/dockpanelsuite.git
