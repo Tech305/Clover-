@@ -1,6 +1,6 @@
 # Clover™ Engine
 
-Chat [![Gitter](https://badges.gitter.im/Clover-/community.svg)](https://gitter.im/Clover-/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Clover-/community.svg)](https://gitter.im/Clover-/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ps://www.myget.org/gallery/dock-nightly) 
 
