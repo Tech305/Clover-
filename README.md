@@ -1,11 +1,8 @@
 # Clover™ Engine
 
-[![Gitter](https://badges.gitter.im/Clover-/community.svg)](https://gitter.im/Clover-/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Chat [![Gitter](https://badges.gitter.im/Clover-/community.svg)](https://gitter.im/Clover-/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[![Build status](https://dev.azure.com/wieslawsoltes/GitHub/_apis/build/status/Sources/Dock)](https://dev.azure.com/wieslawsoltes/GitHub/_build/latest?definitionId=55)
-
-[![NuGet](https://img.shields.io/nuget/v/Dock.Model.svg)](https://www.nuget.org/packages/Dock.Model)
-[![MyGet](https://img.shields.io/myget/dock-nightly/vpre/Dock.Model.svg?label=myget)](https://www.myget.org/gallery/dock-nightly) 
+ps://www.myget.org/gallery/dock-nightly) 
 
 A game engine powered by DirectX and OpenGL.
 
