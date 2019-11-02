@@ -39,27 +39,6 @@ H:\Resolve\Clover™\Sandbox\obj\Debug\DockSample.Output.resources
 H:\Resolve\Clover™\Sandbox\obj\Debug\DockSample.Inspector.resources
 H:\Resolve\Clover™\Sandbox\obj\Debug\DockSample.Project.resources
 H:\Resolve\Clover™\Sandbox\obj\Debug\DockSample.Hierarchy.resources
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\license.txt
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Resources\license.txt
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Clover.exe.config
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Clover.exe
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Clover.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Clover.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2003.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2005.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Clover.dll.config
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2003.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2005.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2012.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\Sandbox.csprojAssemblyReference.cache
 C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\DockSample.AboutDialog.resources
 C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\DockSample.Preference.resources
@@ -77,6 +56,3 @@ C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\DockSample.SplashS
 C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\DockSample.ToolWindow.resources
 C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\Sandbox.csproj.GenerateResource.cache
 C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\Sandbox.csproj.CopyComplete
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\Clover.exe
-C:\Users\Senpai\documents\Git Repos\clover-\Sandbox\obj\Debug\Clover.pdb

@@ -7,12 +7,13 @@ H:\Resolve\Clover™\Editor\obj\Debug\Editor.csproj.CopyComplete
 H:\Resolve\Clover™\Editor\obj\Debug\CloverEditor.dll
 H:\Resolve\Clover™\Editor\obj\Debug\CloverEditor.pdb
 H:\Resolve\Clover™\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
-C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\Clover.dll.config
-C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\Clover.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\Clover.pdb
 C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
 C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
 C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\Editor.csproj.CopyComplete
-C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\Clover.dll
-C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\Clover.pdb
+C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\CloverEditor.dll.config
+C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\CloverEditor.dll
+C:\Users\Senpai\documents\Git Repos\clover-\Editor\bin\Debug\CloverEditor.pdb
+C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\CloverEditor.dll
+C:\Users\Senpai\documents\Git Repos\clover-\Editor\obj\Debug\CloverEditor.pdb
