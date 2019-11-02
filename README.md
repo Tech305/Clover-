@@ -1,6 +1,6 @@
 # Clover™ Engine
 
-[![Gitter](https://badges.gitter.im/wieslawsoltes/Dock.svg)](https://gitter.im/wieslawsoltes/Dock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Clover-/community.svg)](https://gitter.im/Clover-/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![Build status](https://dev.azure.com/wieslawsoltes/GitHub/_apis/build/status/Sources/Dock)](https://dev.azure.com/wieslawsoltes/GitHub/_build/latest?definitionId=55)
 
