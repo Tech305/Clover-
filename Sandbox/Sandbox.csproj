@@ -197,7 +197,7 @@
       <Name>Editor</Name>
     </ProjectReference>
     <ProjectReference Include="..\Engine\Engine.csproj">
-      <Project>{d7e3a60e-8da8-4256-a23b-5875b5b160b2}</Project>
+      <Project>{56504d99-017f-4ae3-a4d5-0dbe563923c5}</Project>
       <Name>Engine</Name>
     </ProjectReference>
     <ProjectReference Include="..\Venders\dockpanelsuite\WinFormsUI\ThemeVS2003.csproj">
